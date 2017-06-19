@@ -52,6 +52,7 @@ public class DetailActivity extends AppCompatActivity implements Callback {
 
         int colorDefault = ContextCompat.getColor(this, R.color.colorPrimary);
         int color = palette.getVibrantColor(colorDefault);
+
         binding.collapsingToolbar.setContentScrimColor(color);
     }
 
