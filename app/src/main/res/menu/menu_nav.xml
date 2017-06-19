@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_home"
+        android:title="@string/nav_home"
+        android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/nav_almacenes"
+        android:title="@string/nav_almacenes"
+        android:icon="@drawable/ic_almacenes"/>
+
+    <item android:id="@+id/nav_deportes"
+        android:title="@string/nav_deportes"
+        android:icon="@drawable/ic_deportes"/>
+
+    <item android:id="@+id/nav_ropa"
+        android:title="@string/nav_ropa"
+        android:icon="@drawable/ic_ropa"/>
+
+    <item android:id="@+id/nav_comida"
+        android:title="@string/nav_comida"
+        android:icon="@drawable/ic_comida"/>
+
+    <item android:id="@+id/nav_electrodomesticos"
+        android:title="@string/nav_electrodomesticos"
+        android:icon="@drawable/ic_electrodomesticos"/>
+
+    <item android:id="@+id/nav_cine"
+        android:title="@string/nav_cine"
+        android:icon="@drawable/ic_cine"/>
+
+    <item android:title="@string/nav_profile">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:title="@string/nav_logout"/>
+        </menu>
+    </item>
+
+</menu>

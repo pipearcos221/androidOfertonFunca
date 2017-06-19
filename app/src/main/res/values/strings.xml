@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Oferton</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="registrate">Registrate</string>
+    <string name="entrar">Entrar</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Password</string>
+
+    <string name="nav_home">Inicio</string>
+    <string name="nav_almacenes">Almacenes</string>
+    <string name="nav_deportes">Deportes</string>
+    <string name="nav_ropa">Ropa</string>
+    <string name="nav_comida">Comida</string>
+    <string name="nav_electrodomesticos">Electrodomesticos</string>
+    <string name="nav_cine">Cine</string>
+    <string name="nav_profile">Perfil</string>
+    <string name="nav_logout">Cerrar Sesion</string>
+    <string name="open_menu">Menu Abierto</string>
+    <string name="close_menu">Menu cerrado</string>
+    <string name="novedades">Novedades</string>
+    <string name="almacenes">Almacenes</string>
+    <string name="descripcion">Descripcion</string>
+
+
+</resources>
